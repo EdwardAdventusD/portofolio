@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #30a2ff;
+}
+/* Navbar Akhir */
+
+/* Jumbotron */
+.jumbotron {
+  padding-top: 5.5rem;
+  background-color: #40c3ff50;
+}
+
+img {
+  width: 200px;
+}
+/* Jumbotron Akhir */
+
+/* About */
+.card {
+  background-color: white;
+}
+
+.card:hover {
+  background-color: #40c3ff50;
+}
+
+.tentangSaya {
+  padding-top: 5rem;
+}
+/* About Akhir */
+
+/* Contact */
+#contact {
+  background-color: #40c3ff50;
+}
+
+.btnKirim {
+  background-color: white;
+}
+
+.btnKirim:hover {
+  background-color: #30a2ff;
+  color: white;
+}
+
+.kontakSaya {
+  padding-top: 5rem;
+}
+/* Contact Akhir */
+
+/* Footer */
+footer {
+  background-color: #30a2ff;
+}
+
+/* Footer Akhir */
